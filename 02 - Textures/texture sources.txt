@@ -1,5 +1,7 @@
 "crate2", "crate1", "crate0" : http://opengameart.org/content/3-crate-textures-w-bump-normal ; free license
 
+"pattern272", "pattern271":
 http://opengameart.org/content/free-tiling-textures-pack-54
 
-http://opengameart.org/content/free-tiling-textures-pack-44-0
+"214":
+http://opengameart.org/content/50-free-textures-5-with-normalmaps
