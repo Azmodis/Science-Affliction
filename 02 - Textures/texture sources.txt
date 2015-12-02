@@ -3,5 +3,8 @@
 "pattern272", "pattern271":
 http://opengameart.org/content/free-tiling-textures-pack-54
 
+"pattern222":
+http://opengameart.org/content/free-tiling-textures-pack-45-0
+
 "214":
 http://opengameart.org/content/50-free-textures-5-with-normalmaps
