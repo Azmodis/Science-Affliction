@@ -7,10 +7,13 @@ http://opengameart.org/content/free-tiling-textures-pack-54
 "pattern222":
 http://opengameart.org/content/free-tiling-textures-pack-45-0
 
-"214":
+"214", "208":
 http://opengameart.org/content/50-free-textures-5-with-normalmaps
 
 "Vanadium", "Antimony":
 http://opengameart.org/content/death-metal-textures
+
+"synthetic_tiles_02":
+http://opengameart.org/content/synttiles02
 
 -> free user license
