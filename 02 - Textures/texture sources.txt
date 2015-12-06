@@ -16,4 +16,7 @@ http://opengameart.org/content/death-metal-textures
 "synthetic_tiles_02":
 http://opengameart.org/content/synttiles02
 
+"whirl2":
+http://opengameart.org/node/30744
+
 -> free user license
