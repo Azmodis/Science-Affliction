@@ -19,4 +19,7 @@ http://opengameart.org/content/synttiles02
 "whirl2":
 http://opengameart.org/node/30744
 
+"sun":
+http://opengameart.org/content/the-sun
+
 -> free user license
