@@ -12,6 +12,7 @@ Rendering guide lines for scene 2 to 4:
 AO value = 0.1
 AO distance = 10
 ----------------
+(check for preset "Limited Global Illumination" since it might already be setup this way) 
 Light Paths:
 	Transparency:
 		Min = 8
