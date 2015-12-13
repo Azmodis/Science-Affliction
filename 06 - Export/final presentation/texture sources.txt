@@ -1,0 +1,30 @@
+"crate2", "crate1", "crate0" : 
+http://opengameart.org/content/3-crate-textures-w-bump-normal
+
+"pattern272", "pattern271":
+http://opengameart.org/content/free-tiling-textures-pack-54
+
+"pattern222":
+http://opengameart.org/content/free-tiling-textures-pack-45-0
+
+"214", "208":
+http://opengameart.org/content/50-free-textures-5-with-normalmaps
+
+"Vanadium", "Antimony":
+http://opengameart.org/content/death-metal-textures
+
+"synthetic_tiles_02":
+http://opengameart.org/content/synttiles02
+
+"whirl2":
+http://opengameart.org/node/30744
+
+"sun":
+http://opengameart.org/content/the-sun
+
+"polarbear":
+https://docs.google.com/file/d/0B1Q3o7x44DgVNzU0Mjg2NDAtZDMyMi00OTRmLWE0N2MtMDFkOWRhZDM4ZmNm/edit?ddrp=1&hl=en_US#
+	-> content of free blender disc and found in folder texture/skin/
+
+
+-> free user license
